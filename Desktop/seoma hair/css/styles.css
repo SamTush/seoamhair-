@@ -1,0 +1,220 @@
+hr{
+    color: #FFFFFF;
+}
+
+footer{
+    background-color:#6E494C
+
+}
+
+footer .contact{
+    margin-left: 140px;
+    margin-top: 120px;
+    color: #FFFFFF;
+}
+  
+
+
+/* header */
+.img-fluid{
+    width: 100%;
+}
+
+.navbar{
+    margin-top: 20px;
+    
+}
+
+
+
+
+/* section */
+.sect-width{
+    margin-top: 20px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lower-sect{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+
+
+.card-one{
+    display: block;
+    border-radius: 5px;
+    padding-left: 4px;
+    padding-right: 4px;
+    /*background-color: #CFCCDC;*/
+    height: 180px;
+    overflow: hidden;
+}
+
+.img-one{
+    display: block;
+    max-width: 100%;
+}
+
+.card-two{
+    display: block;
+    border-radius: 5px;
+    padding-left: 4px;
+    padding-right: 4px;
+    /*background-color: #6E494C;*/
+    height: 180px;
+    overflow: hidden;
+}
+
+.img-two{
+    display: block;
+    max-width: 100%;
+}
+
+.card-three{
+    display: block;
+    border-radius: 5px;
+    padding-left: 4px;
+    padding-right: 4px;
+    height: 180px;
+    overflow: hidden;
+}
+
+.img-three{
+    max-width: 100%;
+    border-radius: 5px;
+    display: block;
+}
+
+
+.card-five{
+    border-radius: 5px;
+    margin-top: 8px;
+    margin-left: 4px;
+    margin-right: 4px;
+    height: 180px;
+    overflow: hidden;
+}
+
+.card-five-one{
+    padding-left: 0px;
+    padding-right: 4px;
+}
+
+.card-five-two{
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.card-five-three{
+    padding-left: 4px;
+    padding-right: 0px;
+}
+
+.img-five{
+    display: block;
+    max-width: 100%;
+}
+
+
+.card-four{
+    border-radius: 5px;
+    margin-top: 8px;
+    padding-left: 4px;
+    padding-right: 4px;
+    /*background-color: #8E4B56;*/
+    height: 180px;
+    overflow: hidden;
+}
+
+.img-four{
+    display: block;
+    max-width: 100%;
+}
+
+
+.card-six{
+    border-radius: 5px;
+    margin-top: 8px;
+    padding-left: 4px;
+    padding-right: 4px;
+    /*background-color: #CFCCDC;*/
+    height: 180px;
+    overflow: hidden;
+}
+
+.img-six{
+    display: block;
+    max-width: 100%;
+}
+
+#my-store-78464006{
+    margin-bottom: 30px;
+}
+
+/* footer */
+.footer-logo{
+    float: left;
+    margin-top: 30px;
+    padding: 15px;
+    width: 160px;
+    overflow: hidden;
+}
+
+.slogan{
+    text-align: left;
+    color: white;
+    margin-left: 12px;
+}
+
+.footer-nav{
+    padding: 3px 0px;
+    text-align: left;
+}
+
+.copyright{
+    margin-top: 15px;
+    padding-bottom: 10px;
+    text-align: right;
+}
+
+.develop{
+    color: #CFCCDC;
+    font-size:xx-small;
+    text-align: right;
+    float: right;
+}
+
+.seoma{
+    font-size: small;
+}
+
+a:link {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.alink:visited {
+    color: #F5F5F5;
+    background-color: transparent;
+    text-decoration: none;
+  }
+    
+.alink:hover {
+  color: #ffc0cb;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+/* responsive*/
+@media only screen and (max-width: 991px) {
+    .card-two{
+        margin-top: 8px;
+    }
+
+    .card-three{
+        margin-top: 8px;
+    }
+}
