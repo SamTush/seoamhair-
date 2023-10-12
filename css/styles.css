@@ -194,6 +194,7 @@ footer .contact{
 a:link {
   background-color: transparent;
   text-decoration: none;
+  color: #F5F5F5;
 }
 
 .alink:visited {
